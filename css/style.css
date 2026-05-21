@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+    height: auto;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+/*PARA LLAMAR CLASE*/
+.container{
+
+    background-color: #008080;
+    height: auto;
+    width: 100%;
+}
+/*PARA LLAMAR ID*/
+#output{
+    background-color: rgb(126, 11, 99);
+    height: 100%;
+    width: 50%;
+}
+#contenedorgrande{
+    background-color: #0000FF;
+}
+.contenedoruno{
+    background-color: #00FF00;
+    margin-left: 20%;
+    width: 50%;
+}
+.contenedordos{
+    background-color: #FF0000;
+    margin-left: 60%;
+    width: 30%;
+}
+
+
+
